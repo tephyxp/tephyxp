@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tephyxp" alt="tephyxp" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*yBvA5CnEX3Sd4aod.gif">
+
+
 
 - 🔭 I’m currently working on **an Online Korean Cosmetics E-commerce project, using VUE JS,tailwind CSS, node JS and MySQL**
 
