@@ -3,7 +3,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*yBvA5CnEX3Sd4aod.gif" style="margin-left: auto; margin-right: auto;">
+  <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*yBvA5CnEX3Sd4aod.gif" style="margin-left: 40px; margin-right: auto;">
 </div>
 
 
