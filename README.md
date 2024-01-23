@@ -2,11 +2,6 @@
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*yBvA5CnEX3Sd4aod.gif" style="margin-left: 40px; margin-right: auto;">
-</div>
-
-
 # 👩‍💻 About Me:
 🔭 I'm currently transitioning from a background in Tourism to pursue a career as a full-stack web developer.<br><br>🌱 I’m currently learning REACT, PHP, LARAVEL, POSTGRESQL and CYPRESS to complement my knowledge at Factoría F5.<br><br>👯 I’m looking to collaborate on Useful and dynamic projects using REACTJS /Vue JS, Tailwind, MysQL and Node js, or other technologies.<br><br>🤝 I’m looking for help with Three js Projects.<br><br>💬 Ask me about HTML, CSS, Javascript, GIT, Tailwind CSS, Vue JS, MySQL<br><br>📫 How to reach me lindacespedesdev@gmail.com<br><br>📄 Know about my experiences www.linkedin.com/in/stephanie-cespedes<br><br>⚡ Fun fact 🎵 A fun fact about me is that music is one of my greatest hobbies. I'm a multi-instrumentalist, self-taught, and this passion has facilitated my self-directed learning in programming, making it easier for me to explore and adopt new technologies. I'm deeply curious and thrive on solving problems, as I see them as challenges that drive me to constantly improve. One of my dreams is to merge my two great passions—code and music—by creating innovative projects. 🚀🎶<br><br>
 
