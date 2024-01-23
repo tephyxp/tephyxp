@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*yBvA5CnEX3Sd4aod.gif">
+<div style="display: flex; justify-content: center;">
+  <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*yBvA5CnEX3Sd4aod.gif">
+</div>
 
 
 # 👩‍💻 About Me:
